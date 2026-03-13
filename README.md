@@ -7,3 +7,4 @@ https://pseudoremy.com/
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-simpson-engineer/)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-~2.7k%20Rep-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/5546726/pseudoremy)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jeremy.smipson)
